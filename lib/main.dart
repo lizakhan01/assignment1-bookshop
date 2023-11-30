@@ -35,7 +35,7 @@ class bookInfo {
 class firstPage extends StatelessWidget {
   final List<bookInfo> books = [
     bookInfo(
-      name: 'Shuvro ',
+      name: 'Shuvro Samagro ',
       author: 'Humayun Ahmed',
       rating: '4.5',
       coverUrl: 'https://lh3.googleusercontent.com/-ybgrVmu1e_A/VP5SfPaIHFI/AAAAAAABXRM/M7jWFoP-phw/s800/shuvro-samagra-humayun-ahmed.jpg',
