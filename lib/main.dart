@@ -37,7 +37,7 @@ class firstPage extends StatelessWidget {
     bookInfo(
       name: 'Shuvro Samagro',
       author: 'Humayun Ahmed',
-      rating: '4.5',
+      rating: '4.99',
       coverUrl: 'https://lh3.googleusercontent.com/-ybgrVmu1e_A/VP5SfPaIHFI/AAAAAAABXRM/M7jWFoP-phw/s800/shuvro-samagra-humayun-ahmed.jpg',
       description: "Shuvro is the only son of industrialist Iajuddin or in some stories, Mr. Motahar. His mother, Rehana or Jahanara, in some stories, is the only one with whom Shuvro has a real connection. Here, Ahmed gave us an ideal mother-son relationship. Once, Shuvro told his mother that, 'If I would receive birth a million times, I would have told the Almighty, that I don't care about who I am born to, but each and every time, I should be sent to you.' Shuvro is somewhat of a prince, his complexion is charming and just like other princes, he has many amenities.",
       price: '\$5.8',
