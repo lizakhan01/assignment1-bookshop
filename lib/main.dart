@@ -45,7 +45,7 @@ class firstPage extends StatelessWidget {
     bookInfo(
       name: 'Harry Potter & The Prisoner Of Azkaban',
       author: 'J.K. Rowling',
-      rating: '4.9',
+      rating: '4.96',
       coverUrl: 'https://m.media-amazon.com/images/I/91VZqV0Cy8L._AC_UF1000,1000_QL80_.jpg',
       description: "Harry Potter & The Prisoner of Azkaban is about Harry's 3rd year at Hogwarts. Along with friends Ron and Hermione, Harry investigates the case of Sirius Black, an escaped prisoner from Azkaban, the wizard prison.",
       price: '\$14.99',
@@ -53,7 +53,7 @@ class firstPage extends StatelessWidget {
     bookInfo(
       name: 'Harry Potter & The Chamber Of Secrets',
       author: 'J.K. Rowling',
-      rating: '4.7',
+      rating: '4.89',
       coverUrl: 'https://static.wikia.nocookie.net/harrypotter/images/6/6d/Chamber_of_Secrets_New_UK_Cover.jpg/revision/latest?cb=20170109045927',
       description: "The story follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, where the Heir of Salazar Slytherin opens the Chamber of Secrets, unleashing a monster that petrifies the school's students.",
       price: '\$14.99',
