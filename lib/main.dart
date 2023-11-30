@@ -53,7 +53,7 @@ class firstPage extends StatelessWidget {
     bookInfo(
       name: 'Harry Potter & The Chamber Of Secrets',
       author: 'J.K. Rowling',
-      rating: '4.8',
+      rating: '4.89',
       coverUrl: 'https://static.wikia.nocookie.net/harrypotter/images/6/6d/Chamber_of_Secrets_New_UK_Cover.jpg/revision/latest?cb=20170109045927',
       description: "The story follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, where the Heir of Salazar Slytherin opens the Chamber of Secrets, unleashing a monster that petrifies the school's students.",
       price: '\$14.99',
