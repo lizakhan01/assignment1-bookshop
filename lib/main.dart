@@ -35,7 +35,7 @@ class bookInfo {
 class firstPage extends StatelessWidget {
   final List<bookInfo> books = [
     bookInfo(
-      name: 'Shuvro Samagro',
+      name: 'Shuvro ',
       author: 'Humayun Ahmed',
       rating: '4.5',
       coverUrl: 'https://lh3.googleusercontent.com/-ybgrVmu1e_A/VP5SfPaIHFI/AAAAAAABXRM/M7jWFoP-phw/s800/shuvro-samagra-humayun-ahmed.jpg',
@@ -68,7 +68,6 @@ class firstPage extends StatelessWidget {
       price: '\$3.99',
 
     ),
-    // Add more books as needed
   ];
 
   @override
@@ -164,7 +163,6 @@ class BuyNowPage extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: ListView(
-          //crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
               book.name,
@@ -194,8 +192,8 @@ class BuyNowPage extends StatelessWidget {
                   child: Text(value),
                 );
               }).toList(),
-              onChanged: (String? newValue) {
-                // Handle dropdown value change
+             onChanged: (String? newValue) {
+
               },
               hint: Text('Select Edition'),
             ),
